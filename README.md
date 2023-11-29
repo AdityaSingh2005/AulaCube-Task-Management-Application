@@ -16,6 +16,8 @@ Project where light blue meets simplicity. Designed for all ages, it blends tran
 - Users can edit the task Name, Description, and Priority.
 - Priority levels like Low, Medium, High.
 - User can also Delete the task after completion.
+- The tasks are stored in the browser's local Storage, so that the tasks
+   persist even after a page refresh.
 - Pagination for the task list. ***(Bonus Feature)***
 - Adding due dates to tasks. ***(Bonus Feature)***
 
